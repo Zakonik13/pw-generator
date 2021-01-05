@@ -1,5 +1,5 @@
 # Password Generator
-https://zakonik13.github.io/pw-generator/
+
 ### Purpose:
     * Create a password generator that creates random password based on user input.
 
